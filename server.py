@@ -11,7 +11,9 @@ courses = ['FCN',
             'PKI',
             'CYBER FORENSICS',
            ' COMPLIANCE AUDIT', 
-           ' APPTITUDE and EFFECTIVE COMMUNICATION' ]
+           ' APPTITUDE and EFFECTIVE COMMUNICATION' 
+            ' Checked by Gajanan Sir.'  
+          ]
 name = [ 'Name : Ajinkya Patil' , 'Course : PG-DITISS', ' PRN : 230344223002', 'PHONE NUMBER : 8888407020']
 # add all the routes
 
